@@ -3,13 +3,6 @@
 Sou Suelem Macedo, tenho 31 anos e sou da terra onde o sol nasce primeiro, Paraíba. 
 Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket: e também Análise e Desenvolvimento de Sistemas na Wyden.
 
-
-<div align="center">
-  <a href="https://github.com/suelemmacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suelemmacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suelemmacedo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## No momento, aprendendo as linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="Suelem-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
