@@ -1,6 +1,6 @@
 ## Olá! Seja muito bem-vindo(a)!
 
-Sou Suelem Macedo, tenho 31 anos e sou da terra onde o sol nasce primeiro, Paraíba. 
+Sou Suelem Macedo, tenho 32 anos e sou da terra onde o sol nasce primeiro, Paraíba. 
 Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket:.
 
 ## Linguagens:
