@@ -17,5 +17,14 @@ Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.co
   <a href="https://instagram.com/suelemmacedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:suelemmacedo23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/suelemmacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://nodejs.org/en/">
+  <img align="center" alt="Node-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  <a href = "https://www.docker.com/">
+  <img align="center" alt="Docker-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></a>
+  <a href = "https://sequelize.org/">
+  <img align="center" alt="Sequelize-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></a>
+  <a href = "https://www.mysql.com/">
+  <img align="center" alt="MySQL-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
+  </div>
  
 </div>
