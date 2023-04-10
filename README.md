@@ -13,7 +13,7 @@ Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.co
   <img align="center" alt="Docker-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></a>
   <img align="center" alt="Sequelize-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></a>
   <img align="center" alt="MySQL-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"//>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="30"//>
 </div>
   
   ## Contatos:
