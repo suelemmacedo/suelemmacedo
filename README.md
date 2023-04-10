@@ -3,7 +3,7 @@
 Sou Suelem Macedo, tenho 32 anos e sou da terra onde o sol nasce primeiro, Paraíba. 
 Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket:.
 
-## Linguagens:
+## Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Suelem-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Suelem-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
