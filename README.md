@@ -1,7 +1,7 @@
 ## Olá! Seja muito bem-vindo(a)!
 
 Sou Suelem Macedo, tenho 32 anos e sou da terra onde o sol nasce primeiro, Paraíba. 
-Desenvolvedora Web Full Stack e estudante de Análise e Desenvolvimento de Sistemas. :rocket:.
+Desenvolvedora Web Full Stack e estudante de Análise e Desenvolvimento de Sistemas. :rocket:
 
 ## Tecnologias:
 <div style="display: inline_block"><br>
