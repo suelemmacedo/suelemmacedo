@@ -1,6 +1,12 @@
-## Olá, seja muito bem-vindo(a)!
+## Olá, seja muito bem-vindo(a)! 👋
 
-Sou **Suelem Macedo**, desenvolvedora **Web Full Stack**, com 33 anos, apaixonada por tecnologia e sempre em busca de novos desafios. Nascida na Paraíba, sou uma profissional comprometida em criar soluções impactantes e inovadoras na área de tecnologia. Minha jornada inclui a conclusão do curso de **Desenvolvimento Web Full Stack** pela **Escola de Tecnologia Trybe** e a constante expansão dos meus conhecimentos por meio de bootcamps e cursos especializados, com foco em **Cloud Computing** e **Desenvolcimento Web**. 🚀
+Sou Suelem Macedo, estudante de **Análise e Desenvolvimento de Sistemas** e certificada **AWS Cloud Practitioner (CLF-C02)**. Sou apaixonada por tecnologia, aprendizado contínuo e tenho buscado construir uma carreira sólida na área de Cloud Computing.
+
+Iniciei minha jornada na tecnologia pela Escola Trybe, onde desenvolvi habilidades em **programação** e **desenvolvimento web**. Ao longo do tempo, direcionei meu foco para **Computação em Nuvem**, participando de formações como **Escola da Nuvem**, **WoMakersCode** e o **Bootcamp em Cloud da Ready ProWay em parceria com a T-Systems**, consolidando minha base na área.
+
+Atualmente, atuo com **Public Cloud**, vivenciando na prática rotinas, processos e ferramentas do dia a dia, o que tem acelerado muito minha evolução técnica e profissional.
+
+Tenho grande interesse em Cloud Computing, Linux e Desenvolvimento Web, sempre buscando aprender mais e evoluir constantemente. 🚀
 
 ## 💡 Habilidades Técnicas
 
@@ -12,7 +18,7 @@ Sou **Suelem Macedo**, desenvolvedora **Web Full Stack**, com 33 anos, apaixonad
 ## 🏆 Experiências e Conquistas
 
 - **React**: Curso na **Rocketseat**, fortalecendo conhecimentos práticos.
-- **AWS**: Certificação em conceitos fundamentais pela **Escola da Nuvem**.
+- **AWS**: **AWS Cloud Practitioner (CLF-C02)**.
 - **Azure**: Certificação em conceitos fundamentais pela **Womakers Code** e **Microsoft**.
 - **Cloud Computing**: Bootcamp **T-Cloud Academy** da **Ready Proway**, com foco em tecnologias de nuvem.
 - **Educação**: Estudante de **Análise e Desenvolvimento de Sistemas** pela **Wyden**, unindo teoria e prática para uma base sólida em tecnologia.
