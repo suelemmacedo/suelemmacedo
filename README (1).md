@@ -43,10 +43,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suelemmacedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suelemmacedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas nos repositórios" />
+<!-- Cards gerados pelo GitHub Profile Summary Cards. Caso o serviço fique indisponível, os links dos projetos e o restante do perfil continuam acessíveis. -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suelemmacedo&theme=tokyonight" alt="Resumo das estatísticas do GitHub" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suelemmacedo&theme=tokyonight" alt="Linguagens dos repositórios" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=suelemmacedo&theme=tokyonight&hide_border=true" alt="Sequência de contribuições do GitHub" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suelemmacedo&theme=tokyonight" alt="Atividade e contribuições no GitHub" />
 
 </div>
 
