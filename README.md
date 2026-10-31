@@ -1,66 +1,110 @@
-## Olá, seja muito bem-vindo(a)! 👋
+# Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-Sou Suelem Macedo, estudante de **Análise e Desenvolvimento de Sistemas** e certificada **AWS Cloud Practitioner (CLF-C02)**. Sou apaixonada por tecnologia, aprendizado contínuo e tenho buscado construir uma carreira sólida na área de Cloud Computing.
+Sou **Suelem Macedo**, estudante de **Análise e Desenvolvimento de Sistemas**, certificada **AWS Certified Cloud Practitioner (CLF-C02)** e atualmente **estagiária de Public Cloud na T-Systems**.
 
-Iniciei minha jornada na tecnologia pela Escola Trybe, onde desenvolvi habilidades em **programação** e **desenvolvimento web**. Ao longo do tempo, direcionei meu foco para **Computação em Nuvem**, participando de formações como **Escola da Nuvem**, **WoMakersCode** e o **Bootcamp em Cloud da Ready ProWay em parceria com a T-Systems**, consolidando minha base na área.
+Minha trajetória na tecnologia começou pelo desenvolvimento de software, com formação Full Stack pela **Trybe**. Posteriormente, direcionei meus estudos e minha carreira para **Cloud Computing, infraestrutura, Linux e DevOps**.
 
-Atualmente, atuo com **Public Cloud**, vivenciando na prática rotinas, processos e ferramentas do dia a dia, o que tem acelerado muito minha evolução técnica e profissional.
+Atualmente, atuo em ambientes corporativos de nuvem, com experiência em **Microsoft Azure e AWS**, participando de atividades de sustentação, monitoramento, troubleshooting, gerenciamento de acessos, mudanças e administração de recursos Cloud.
 
-Tenho grande interesse em Cloud Computing, Linux e Desenvolvimento Web, sempre buscando aprender mais e evoluir constantemente. 🚀
+Também venho ampliando meus conhecimentos em **DevOps, automação de infraestrutura, containers, infraestrutura como código (IaC) e pipelines CI/CD**, conciliando aprendizado contínuo com experiências práticas e projetos pessoais.
 
-## 💡 Habilidades Técnicas
+Meu objetivo é continuar evoluindo profissionalmente nas áreas de **Cloud Computing e DevOps**, contribuindo para ambientes tecnológicos mais eficientes, seguros e automatizados.
 
-- **Front-end**: JavaScript, CSS, HTML
-- **Back-end**: MySQL, JavaScript, PostgreSQL  
-- **Infraestrutura em Nuvem**: AWS, Azure  
-- **Bibliotecas e Frameworks**: React, jQuery, Bootstrap
+## Experiência Profissional
 
-## 🏆 Experiências e Conquistas
+**T-Systems do Brasil | Estagiária de Public Cloud**
 
-- **React**: Curso na **Rocketseat**, fortalecendo conhecimentos práticos.
-- **AWS**: **AWS Cloud Practitioner (CLF-C02)**.
-- **Azure**: Certificação em conceitos fundamentais pela **Womakers Code** e **Microsoft**.
-- **Cloud Computing**: Bootcamp **T-Cloud Academy** da **Ready Proway**, com foco em tecnologias de nuvem.
-- **Educação**: Estudante de **Análise e Desenvolvimento de Sistemas** pela **Wyden**, unindo teoria e prática para uma base sólida em tecnologia.
+- Sustentação e suporte operacional em ambientes Microsoft Azure, AWS e GCP.
+- Atendimento e análise de incidentes, requisições e mudanças.
+- Administração e monitoramento de recursos de infraestrutura Cloud.
+- Troubleshooting em ambientes Linux e serviços de nuvem.
+- Gerenciamento de identidades, acessos e permissões.
+- Participação em atividades relacionadas a DevOps, integrações e automação.
+- Utilização de ferramentas como Azure DevOps, Jira, Bitbucket, Bamboo e Keycloak.
 
-## Tecnologias
+## Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
+**Cloud Computing**
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Suelem-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Suelem-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Suelem-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Suelem-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Suelem-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Suelem-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Suelem-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Suelem-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Suelem-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Suelem-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Suelem-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-</div>
+**DevOps e Infraestrutura**
+- Linux
+- Docker
+- Terraform
+- Git e GitHub
+- Azure DevOps
+- CI/CD
+- Bitbucket e Bamboo
 
+**Desenvolvimento**
+- JavaScript
+- HTML5 e CSS3
+- React
+- Node.js
+- MySQL e PostgreSQL
 
-## 🌟 Habilidades Pessoais
+**Operações e Monitoramento**
+- ServiceNow
+- Zabbix
+- Azure Monitor
+- Jira
+- Keycloak
 
-- ✔ Resolução de Problemas
-- ✔ Comunicação Eficaz
-- ✔ Visão Estratégica
-- ✔ Trabalho em Equipe
-- ✔ Adaptabilidade
-- ✔ Empatia
+## Certificações e Formação
 
-## 🚀 Vamos nos conectar?
+**Certificação**
+- AWS Certified Cloud Practitioner (CLF-C02)
 
-Estou sempre em busca de desafios que me permitam aplicar e expandir minhas habilidades, colaborando com equipes dinâmicas e projetos que impactem positivamente o mundo.
+**Formação Acadêmica**
+- Análise e Desenvolvimento de Sistemas — Wyden
 
-📬 **Contatos**:
+**Cursos e Programas**
+- Desenvolvimento Web Full Stack — Trybe
+- Escola da Nuvem
+- WoMakersCode — Fundamentos de Azure
+- T-Cloud Academy — Ready ProWay em parceria com a T-Systems
+- React — Rocketseat
 
-<div> 
-  <a href="https://instagram.com/suelemmacedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:suelemmacedo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/suelemmacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**Em desenvolvimento**
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS Solutions Architect
+- Terraform, Docker e práticas de DevOps
+
+## Projetos Práticos
+
+### Docker, AWS e Linux
+
+Projeto prático voltado à criação e execução de containers Docker, publicação de imagens e deploy em infraestrutura AWS.
+
+**Tecnologias:** Docker, AWS EC2, Amazon ECR e Linux.
+
+### Infraestrutura como Código com Terraform
+
+Provisionamento de recursos AWS utilizando Terraform, incluindo instâncias EC2, Security Groups e repositórios Amazon ECR.
+
+**Tecnologias:** Terraform, AWS, Git e Linux.
+
+Confira meus projetos e minha evolução técnica nos repositórios do GitHub.
+
+## Habilidades Profissionais
+
+- Resolução de problemas e troubleshooting
+- Aprendizado contínuo
+- Trabalho em equipe
+- Comunicação e colaboração
+- Adaptabilidade
+- Organização e responsabilidade
+
+## Vamos nos conectar?
+
+Estou sempre aberta a trocar conhecimentos, compartilhar experiências e participar de projetos relacionados a Cloud Computing, infraestrutura e DevOps.
+
+**LinkedIn:** https://www.linkedin.com/in/suelemmacedo
+
+**GitHub:** https://github.com/suelemmacedo
+
+**E-mail:** suelemmacedo.dev@gmail.com
 
 
