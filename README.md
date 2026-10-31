@@ -32,21 +32,27 @@
 
 </div>
 
-### Projetos em destaque
+### Projetos e laboratórios
 
-| Projeto | Tecnologias | Acessar |
-| :--- | :--- | :---: |
-| **Infraestrutura como código** | Terraform · AWS · EC2 · Security Groups | [Ver repositório](https://github.com/suelemmacedo/infra-as-code) |
-| **Laboratórios DevOps** | Docker · Linux · AWS · CI/CD | [Explorar meus projetos](https://github.com/suelemmacedo?tab=repositories) |
+<div align="center">
+
+[![Projetos no GitHub](https://img.shields.io/badge/Explorar_meus_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suelemmacedo?tab=repositories)
+[![Laboratórios DevOps](https://img.shields.io/badge/Docker_%26_Cloud-2563EB?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/suelemmacedo?tab=repositories)
+
+<sub>Projetos práticos, estudos e experimentos em Cloud, Linux e DevOps.</sub>
+
+</div>
 
 ### GitHub em números
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suelemmacedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suelemmacedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas nos repositórios" />
+<!-- Os dois cards de estatísticas que não carregavam foram removidos.
+     Este gráfico de streak já funcionava no seu perfil. -->
+<img width="90%" src="https://streak-stats.demolab.com?user=suelemmacedo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=suelemmacedo&theme=tokyonight&hide_border=true" alt="Sequência de contribuições do GitHub" />
+[![Seguidores](https://img.shields.io/github/followers/suelemmacedo?label=Seguidores&style=for-the-badge&logo=github&color=2563eb)](https://github.com/suelemmacedo?tab=followers)
+[![Repositórios públicos](https://img.shields.io/badge/Ver_repositórios_públicos-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suelemmacedo?tab=repositories)
 
 </div>
 
